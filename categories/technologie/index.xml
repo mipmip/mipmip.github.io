@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technologie on Pim Snel</title>
+    <link>//localhost:1313/categories/technologie/</link>
+    <description>Recent content in technologie on Pim Snel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/categories/technologie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo goedkoper en beter</title>
+      <link>//localhost:1313/blog/hugo-goedkoper-en-beter/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/hugo-goedkoper-en-beter/</guid>
+      <description>Al jaren zit ik me te ergeren aan WordPress, of liever de populariteit van WordPress.
+Dit desembrood is heerlijk luchtig en light verteerbaar. Het is momenteel m’n favoriete brood. Ik maak het bijna elke dag.</description>
+    </item>
+    
+  </channel>
+</rss>
