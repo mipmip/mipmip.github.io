@@ -2,48 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pim Snel</title>
-    <link>/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Pim Snel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>technologie</title>
-      <link>/categories/technologie/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/technologie/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>brood</title>
-      <link>/categories/brood/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      <link>//localhost:1313/categories/brood/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/brood/</guid>
+      <guid>//localhost:1313/categories/brood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eten</title>
-      <link>/categories/eten/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      <link>//localhost:1313/categories/eten/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/eten/</guid>
+      <guid>//localhost:1313/categories/eten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>recept</title>
-      <link>/categories/recept/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      <link>//localhost:1313/categories/recept/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/recept/</guid>
+      <guid>//localhost:1313/categories/recept/</guid>
       <description></description>
     </item>
     
