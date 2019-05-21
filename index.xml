@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hallo on Pim Snel</title>
+    <title>Pim Snel.com on Pim Snel</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Hallo on Pim Snel</description>
+    <description>Recent content in Pim Snel.com on Pim Snel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
@@ -283,11 +283,20 @@
     
     <item>
       <title>Overstapbrood</title>
-      <link>//localhost:1313/blog/overstapbrood/</link>
+      <link>//localhost:1313/blog/2019.05.20-overstapbrood/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/blog/overstapbrood/</guid>
+      <guid>//localhost:1313/blog/2019.05.20-overstapbrood/</guid>
       <description>Een paar maanden geleden zag ik een uitzending van Keuringsdienst van Waren over brood. Ik was al niet zo te spreken over het meeste brood dat je in Nederland koopt, maar na deze uitzending was ik zo geschokt over het liefdeloze fabrieksproces waarbij een van onze belangrijkste voedingsmiddelen tot stand komt dat ik besloot om te onderzoeken of ik zelf niet een mooi brood kon bakken.</description>
+    </item>
+    
+    <item>
+      <title>Hallo</title>
+      <link>//localhost:1313/_index-new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/_index-new/</guid>
+      <description>Ik ben Pim Snel en dit is mijn website.  Als je zo hier en daar wat leest, krijg je een indruk wie ik ben. Je vind hier stukjes over eten en technologie en alles wat mij boeit.</description>
     </item>
     
     <item>
@@ -297,16 +306,6 @@
       
       <guid>//localhost:1313/ervaring/software/liszt/</guid>
       <description>Als je een afbeelding op Liszt sleept in je macOS taakbalk, wordt deze automatisch naar de cloud gekopieerd en krijg je een Mardown-afbeeldingscode terug.</description>
-    </item>
-    
-    <item>
-      <title>Pim Snel.com</title>
-      <link>//localhost:1313/_index-tmp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/_index-tmp/</guid>
-      <description>Nog heel even wachten. 
-M&amp;rsquo;n website is bijna open. Binnenkort kun je hier mijn stukjes lezen over eten en technologie en alles wat ik wil delen.</description>
     </item>
     
     <item>
