@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>eten on Pim Snel</title>
-    <link>//localhost:1313/categories/eten/</link>
+    <link>/categories/eten/</link>
     <description>Recent content in eten on Pim Snel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="//localhost:1313/categories/eten/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/eten/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Overstapbrood</title>
-      <link>//localhost:1313/blog/2019.05.20-overstapbrood/overstapbrood/</link>
+      <link>/blog/2019.05.20-overstapbrood/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/blog/2019.05.20-overstapbrood/overstapbrood/</guid>
+      <guid>/blog/2019.05.20-overstapbrood/</guid>
       <description>Een paar maanden geleden zag ik een uitzending van Keuringsdienst van Waren over brood. Ik was al niet zo te spreken over het meeste brood dat je in Nederland koopt, maar na deze uitzending was ik zo geschokt over het liefdeloze fabrieksproces waarbij een van onze belangrijkste voedingsmiddelen tot stand komt dat ik besloot om te onderzoeken of ik zelf niet een mooi brood kon bakken.</description>
     </item>
     
