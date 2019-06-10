@@ -288,8 +288,7 @@
       
       <guid>/blog/2019.05.21-wat-is-markdown/</guid>
       <description>Markdown is stilletjes de schrijfwereld aan het veroveren. Softwareontwikkelaars waren de eersten die deze opmaaktaal omarmden, en nu volgt langzaam de rest van de wereld.
-Waarom?
-Omdat schrijving in Markdown eenvoudig te leren is, en ontzettend handig als je er eenmaal aan gewend bent.</description>
+Waarom? Omdat schrijven in Markdown eenvoudig te leren is, en ontzettend handig als je er eenmaal aan gewend bent.</description>
     </item>
     
     <item>
@@ -326,6 +325,15 @@ Omdat schrijving in Markdown eenvoudig te leren is, en ontzettend handig als je 
       
       <guid>/ervaring/opensource/zabbix_osx_installer/</guid>
       <description>Programma om de Zabbix Agent op een macOS-server te installeren.</description>
+    </item>
+    
+    <item>
+      <title>✍️</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Contact met Pim Snel  Je kunt me via twitter of via LinkedIn een bericht sturen.</description>
     </item>
     
   </channel>
