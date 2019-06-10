@@ -3,211 +3,211 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//localhost:1313/ervaring/werk/dscan/</loc>
+    <loc>/ervaring/werk/dscan/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/werk/kaftmeister/</loc>
+    <loc>/ervaring/werk/kaftmeister/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/projecten/pas3/</loc>
+    <loc>/ervaring/projecten/pas3/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/werk/lingewoud/</loc>
+    <loc>/ervaring/werk/lingewoud/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/onderwijs/universiteit-utrecht-al/</loc>
+    <loc>/ervaring/onderwijs/universiteit-utrecht-al/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/opensource/awesome-motion/</loc>
+    <loc>/ervaring/opensource/awesome-motion/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/software/tempo-app/</loc>
+    <loc>/ervaring/software/tempo-app/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/projecten/egroupware-jinn/</loc>
+    <loc>/ervaring/projecten/egroupware-jinn/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/opensource/aws-sdk-ios-macos/</loc>
+    <loc>/ervaring/opensource/aws-sdk-ios-macos/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/onderwijs/trajectum/</loc>
+    <loc>/ervaring/onderwijs/trajectum/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/onderwijs/kwc/</loc>
+    <loc>/ervaring/onderwijs/kwc/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/werk/jataggo/</loc>
+    <loc>/ervaring/werk/jataggo/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/projecten/linuxstart.nl/</loc>
+    <loc>/ervaring/projecten/linuxstart.nl/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/software/pdf-letterhead/</loc>
+    <loc>/ervaring/software/pdf-letterhead/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/opensource/pdf-images/</loc>
+    <loc>/ervaring/opensource/pdf-images/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/werk/snowtrex/</loc>
+    <loc>/ervaring/werk/snowtrex/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/werk/novem/</loc>
+    <loc>/ervaring/werk/novem/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/opensource/capistrano-typo3/</loc>
+    <loc>/ervaring/opensource/capistrano-typo3/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/programmeertalen/</loc>
+    <loc>/ervaring/kunde/programmeertalen/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/cms/</loc>
+    <loc>/ervaring/kunde/cms/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/opensource/eokit/</loc>
+    <loc>/ervaring/opensource/eokit/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/os/</loc>
+    <loc>/ervaring/kunde/os/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/frameworks/</loc>
+    <loc>/ervaring/kunde/frameworks/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/serversoftware/</loc>
+    <loc>/ervaring/kunde/serversoftware/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/apis/</loc>
+    <loc>/ervaring/kunde/apis/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/aws/</loc>
+    <loc>/ervaring/kunde/aws/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/ci-cd-testing/</loc>
+    <loc>/ervaring/kunde/ci-cd-testing/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/cloud/</loc>
+    <loc>/ervaring/kunde/cloud/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/dagelijkse-tools/</loc>
+    <loc>/ervaring/kunde/dagelijkse-tools/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/kunde/bijzondere-kennis/</loc>
+    <loc>/ervaring/kunde/bijzondere-kennis/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/markdown/</loc>
-    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/blog/2019.05.21-wat-is-markdown/</loc>
-    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/categories/schrijven/</loc>
+    <loc>/categories/markdown/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/technologie/</loc>
+    <loc>/blog/2019.05.21-wat-is-markdown/</loc>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/schrijven/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/blog/2019.05.20-overstapbrood/</loc>
+    <loc>/categories/technologie/</loc>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2019.05.20-overstapbrood/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/brood/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/categories/eten/</loc>
+    <loc>/categories/brood/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/recept/</loc>
+    <loc>/categories/eten/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/</loc>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/ervaring/software/liszt/</loc>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/categories/recept/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/opensource/yapdfkit/</loc>
+    <loc>/ervaring/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/ervaring/opensource/zabbix_osx_installer/</loc>
+    <loc>/ervaring/software/liszt/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ervaring/opensource/yapdfkit/</loc>
+  </url>
+  
+  <url>
+    <loc>/ervaring/opensource/zabbix_osx_installer/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
   </url>
   
 </urlset>
