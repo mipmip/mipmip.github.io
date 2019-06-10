@@ -2,337 +2,337 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hallo on Pim Snel</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Hallo on Pim Snel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DScan</title>
-      <link>/ervaring/werk/dscan/</link>
+      <link>//localhost:1313/ervaring/werk/dscan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/werk/dscan/</guid>
+      <guid>//localhost:1313/ervaring/werk/dscan/</guid>
       <description>Binnen dit bedrijf in oprichting ben ik verantwoordelijk voor de technische ontwikkeling van een mobiel apparaat dat dimensies opmeet. DScan richt zich op de logistiekbranche.</description>
     </item>
     
     <item>
       <title>Kaftmeister</title>
-      <link>/ervaring/werk/kaftmeister/</link>
+      <link>//localhost:1313/ervaring/werk/kaftmeister/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/werk/kaftmeister/</guid>
+      <guid>//localhost:1313/ervaring/werk/kaftmeister/</guid>
       <description>Met Kaftmeister kunnen uitgevers en vormgevers hun boeken in 3D presenteren voor online en offline promotie. Als medeoprichter en ontwierp de systeemarchitectuur en schreef ik de eerste versies van de serveromgeving en frontend.</description>
     </item>
     
     <item>
       <title>PAS3, drukwerkapp voor franchise bedrijven</title>
-      <link>/ervaring/projecten/pas3/</link>
+      <link>//localhost:1313/ervaring/projecten/pas3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/projecten/pas3/</guid>
+      <guid>//localhost:1313/ervaring/projecten/pas3/</guid>
       <description>PAS3 is een eenvoudige webapplicatie die Adobe InDesign aanstuurt om persoonlijke voorkeuren en eigen gegevens door te voeren in professioneel opgemaakt promotiemateriaal. Oorspronkelijk ontwikkeld voor alle Suzuki-dealers in Nederland. Later in gebruik genomen door diverse dealer- en franchiseorganisaties.</description>
     </item>
     
     <item>
       <title>Lingewoud</title>
-      <link>/ervaring/werk/lingewoud/</link>
+      <link>//localhost:1313/ervaring/werk/lingewoud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/werk/lingewoud/</guid>
+      <guid>//localhost:1313/ervaring/werk/lingewoud/</guid>
       <description>Opgericht na mijn studie om mijn grenzeloze interesse in Linux, software en internet vorm te geven. Lingewoud is door de jaren heen uitgegroeid tot een full service internetbureau. Onze missie is altijd hetzelfde gebleven.</description>
     </item>
     
     <item>
       <title>Algemene Letteren - Universiteit Utrecht</title>
-      <link>/ervaring/onderwijs/universiteit-utrecht-al/</link>
+      <link>//localhost:1313/ervaring/onderwijs/universiteit-utrecht-al/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/onderwijs/universiteit-utrecht-al/</guid>
+      <guid>//localhost:1313/ervaring/onderwijs/universiteit-utrecht-al/</guid>
       <description>Algemene Letteren, Russisch, Film en televisiewetenschappen, Filosofie, CKI</description>
     </item>
     
     <item>
       <title>Awesome RubyMotion</title>
-      <link>/ervaring/opensource/awesome-motion/</link>
+      <link>//localhost:1313/ervaring/opensource/awesome-motion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/opensource/awesome-motion/</guid>
+      <guid>//localhost:1313/ervaring/opensource/awesome-motion/</guid>
       <description>Een gecureerde lijst met links over de programmeeromgeving RubyMotion.</description>
     </item>
     
     <item>
       <title>Tempo App</title>
-      <link>/ervaring/software/tempo-app/</link>
+      <link>//localhost:1313/ervaring/software/tempo-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/software/tempo-app/</guid>
+      <guid>//localhost:1313/ervaring/software/tempo-app/</guid>
       <description>Dit programma schreef ik om mijzelf te beschermen tegen het weglekken van declarabele uren. De applicatie zorgt dat elke minuut van een gebruiker wordt geregistreerd en toegekend. Door de passerende-trein-methodiek toe te passen vraagt Tempo minimale administratieve inspanning van de gebruiker.</description>
     </item>
     
     <item>
       <title>eGroupWare en JiNN CMS</title>
-      <link>/ervaring/projecten/egroupware-jinn/</link>
+      <link>//localhost:1313/ervaring/projecten/egroupware-jinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/projecten/egroupware-jinn/</guid>
+      <guid>//localhost:1313/ervaring/projecten/egroupware-jinn/</guid>
       <description>In de beginjaren van Lingewoud was ik medeoprichter van het project dat de eGroupWare Office Suite ontwikkelde. De suite was een online omgeving waarin meerdere programma&amp;rsquo;s draaiden. Ik leidde de ontwikkeling van het programma JiNN CMS.</description>
     </item>
     
     <item>
       <title>AWS SDK voor iOS &amp; macOS</title>
-      <link>/ervaring/opensource/aws-sdk-ios-macos/</link>
+      <link>//localhost:1313/ervaring/opensource/aws-sdk-ios-macos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/opensource/aws-sdk-ios-macos/</guid>
+      <guid>//localhost:1313/ervaring/opensource/aws-sdk-ios-macos/</guid>
       <description>De Software Development Kit voor Amazon Web Services is oorspronkelijk ontwikkeld voor iOS. Ik heb de SDK aangepast zodat deze ook te gebruiken is om macOS applicaties te ontwikkelen. De broncode van de voorbeeldapplicaties laten zien hoe het werkt.</description>
     </item>
     
     <item>
       <title>VWO - Trajectum Houten</title>
-      <link>/ervaring/onderwijs/trajectum/</link>
+      <link>//localhost:1313/ervaring/onderwijs/trajectum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/onderwijs/trajectum/</guid>
+      <guid>//localhost:1313/ervaring/onderwijs/trajectum/</guid>
       <description>Trajectum Volwassen Onderwijs VWO 2 in 1 jaar</description>
     </item>
     
     <item>
       <title>Havo - KWC Culemborg</title>
-      <link>/ervaring/onderwijs/kwc/</link>
+      <link>//localhost:1313/ervaring/onderwijs/kwc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/onderwijs/kwc/</guid>
+      <guid>//localhost:1313/ervaring/onderwijs/kwc/</guid>
       <description>Koningin Wilhelmina College, Havo</description>
     </item>
     
     <item>
       <title>Jataggo</title>
-      <link>/ervaring/werk/jataggo/</link>
+      <link>//localhost:1313/ervaring/werk/jataggo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/werk/jataggo/</guid>
+      <guid>//localhost:1313/ervaring/werk/jataggo/</guid>
       <description>Als medeoprichter van Jataggo was ik betrokken bij de ontwikkeling van het geldtransactiesysteem Cybro. De ambitie was om migranten in staat te stellen via internet zonder kosten geld te laten overmaken naar familie in hun thuisland.</description>
     </item>
     
     <item>
       <title>Linuxstart.nl</title>
-      <link>/ervaring/projecten/linuxstart.nl/</link>
+      <link>//localhost:1313/ervaring/projecten/linuxstart.nl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/projecten/linuxstart.nl/</guid>
+      <guid>//localhost:1313/ervaring/projecten/linuxstart.nl/</guid>
       <description>Ik raakte na mijn studie gebiologeerd door het besturingssysteem Linux. Het besturingssysteem was de underdog in een computerwereld die werd gedomineerd door Microsoft. Om Linux meer bekendheid te geven bij het Nederlandse bedrijfsleven heb ik de startpagina Linuxstart.</description>
     </item>
     
     <item>
       <title>PDF Letterhead</title>
-      <link>/ervaring/software/pdf-letterhead/</link>
+      <link>//localhost:1313/ervaring/software/pdf-letterhead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/software/pdf-letterhead/</guid>
+      <guid>//localhost:1313/ervaring/software/pdf-letterhead/</guid>
       <description>De eerste versie van PDF Letterhead schreef ik ooit voor mezelf als een eenvoudige desktop applicatie voor macOS om je eigen logo of briefpapier toe te voegen aan bestaande pdf-documenten. Er is ook een gratis Lite-versie.</description>
     </item>
     
     <item>
       <title>PDF-Images</title>
-      <link>/ervaring/opensource/pdf-images/</link>
+      <link>//localhost:1313/ervaring/opensource/pdf-images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/opensource/pdf-images/</guid>
+      <guid>//localhost:1313/ervaring/opensource/pdf-images/</guid>
       <description>Objective-C CLI app om afbeeldingen uit pdf-bestanden te extraheren.</description>
     </item>
     
     <item>
       <title>SnowTrex</title>
-      <link>/ervaring/werk/snowtrex/</link>
+      <link>//localhost:1313/ervaring/werk/snowtrex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/werk/snowtrex/</guid>
+      <guid>//localhost:1313/ervaring/werk/snowtrex/</guid>
       <description>Bij deze touroperator voor wintersportvakanties ben ik aangenomen als applicatie- en systeembeheerder. Samen met een van de partners van SnowTrex heb ik het callcenter verkoopsysteem ontwikkeld in MS Access.</description>
     </item>
     
     <item>
       <title>Novem</title>
-      <link>/ervaring/werk/novem/</link>
+      <link>//localhost:1313/ervaring/werk/novem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/werk/novem/</guid>
+      <guid>//localhost:1313/ervaring/werk/novem/</guid>
       <description>Bijbaan tijdens mijn studie Algemene Letteren in Utrecht. Mijn werkzaamheden bestonden uit het digitaliseren van het archief. Hier deed ik m&amp;rsquo;n eerste database-ervaring op door te werken met DBase.</description>
     </item>
     
     <item>
       <title>Capistrano TYPO3</title>
-      <link>/ervaring/opensource/capistrano-typo3/</link>
+      <link>//localhost:1313/ervaring/opensource/capistrano-typo3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/opensource/capistrano-typo3/</guid>
+      <guid>//localhost:1313/ervaring/opensource/capistrano-typo3/</guid>
       <description>Dit is een Capistrano plugin gemaakt om TYPO3 automatisch uit te rollen in een CD/CI workflow. Daarnaast is deze plugin voor capistrano ook als hulpmiddel te gebruiken om snel te kunnen werken met een TYPO3 omgeving in een Vagrant virtual machine.</description>
     </item>
     
     <item>
       <title>Programmeertalen</title>
-      <link>/ervaring/kunde/programmeertalen/</link>
+      <link>//localhost:1313/ervaring/kunde/programmeertalen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/programmeertalen/</guid>
+      <guid>//localhost:1313/ervaring/kunde/programmeertalen/</guid>
       <description>RubyI hou van Ruby GoGo is de toekomst. Ik ben fan. JavaScript &amp;amp; ES6 PHP Python C &amp;amp; C++ Objective C CrystalCrystal is bijna Ruby maar dan gecompileerd en super snel.</description>
     </item>
     
     <item>
       <title>CMS</title>
-      <link>/ervaring/kunde/cms/</link>
+      <link>//localhost:1313/ervaring/kunde/cms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/cms/</guid>
+      <guid>//localhost:1313/ervaring/kunde/cms/</guid>
       <description> HugoDit site is gemaakt met Hugo TYPO3Het huis-CMS van Lingewoud, voor de veeleisende sites Jekyll WordPress  </description>
     </item>
     
     <item>
       <title>Exact Online Client Library voor iOS en macOS</title>
-      <link>/ervaring/opensource/eokit/</link>
+      <link>//localhost:1313/ervaring/opensource/eokit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/opensource/eokit/</guid>
+      <guid>//localhost:1313/ervaring/opensource/eokit/</guid>
       <description>Softwarebibliotheek om iOS and macOS te laten werken met de Exact Online API. Bekijk de broncode van de voorbeeldapplicaties om te zien hoe het werkt. Je zou hier bijvoorbeeld een Exact Online urenregistratie app voor macOS mee kunnen maken.</description>
     </item>
     
     <item>
       <title>Besturingssystemen</title>
-      <link>/ervaring/kunde/os/</link>
+      <link>//localhost:1313/ervaring/kunde/os/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/os/</guid>
+      <guid>//localhost:1313/ervaring/kunde/os/</guid>
       <description> LinuxLinux, liefst Debian, maar ook Ubuntu, RedHat, Amazon Linux, Slackware iOS, tvOS, macOS FreeBSD, OpenBSD  </description>
     </item>
     
     <item>
       <title>Frameworks</title>
-      <link>/ervaring/kunde/frameworks/</link>
+      <link>//localhost:1313/ervaring/kunde/frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/frameworks/</guid>
+      <guid>//localhost:1313/ervaring/kunde/frameworks/</guid>
       <description> React webpack Express NextJS Bootstrap jQuery Sass &amp;amp; Less RubyMotion NativeScript iOS, tvOS, macOS Ruby on Rails  </description>
     </item>
     
     <item>
       <title>Serversoftware</title>
-      <link>/ervaring/kunde/serversoftware/</link>
+      <link>//localhost:1313/ervaring/kunde/serversoftware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/serversoftware/</guid>
+      <guid>//localhost:1313/ervaring/kunde/serversoftware/</guid>
       <description> MySQL PostgreSQL RabbitMQ Apache Nginx Postfix Courier PowerDNS Zabbix  </description>
     </item>
     
     <item>
       <title>API&#39;s</title>
-      <link>/ervaring/kunde/apis/</link>
+      <link>//localhost:1313/ervaring/kunde/apis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/apis/</guid>
+      <guid>//localhost:1313/ervaring/kunde/apis/</guid>
       <description> Exact Online GitLab  </description>
     </item>
     
     <item>
       <title>AWS</title>
-      <link>/ervaring/kunde/aws/</link>
+      <link>//localhost:1313/ervaring/kunde/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/aws/</guid>
+      <guid>//localhost:1313/ervaring/kunde/aws/</guid>
       <description> S3 Lambda RDS EC2 SQS SMS CloudFront VPC API Gateway Route 53  </description>
     </item>
     
     <item>
       <title>CI, CD &amp; testen</title>
-      <link>/ervaring/kunde/ci-cd-testing/</link>
+      <link>//localhost:1313/ervaring/kunde/ci-cd-testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/ci-cd-testing/</guid>
+      <guid>//localhost:1313/ervaring/kunde/ci-cd-testing/</guid>
       <description> Travis GitLab CI Jenkings Capistrano MiniTest RSpec Jest  </description>
     </item>
     
     <item>
       <title>Cloud hulpmiddelen</title>
-      <link>/ervaring/kunde/cloud/</link>
+      <link>//localhost:1313/ervaring/kunde/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/cloud/</guid>
+      <guid>//localhost:1313/ervaring/kunde/cloud/</guid>
       <description> Terraform Vagrant Docker  </description>
     </item>
     
     <item>
       <title>Dagelijks gebruik</title>
-      <link>/ervaring/kunde/dagelijkse-tools/</link>
+      <link>//localhost:1313/ervaring/kunde/dagelijkse-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/dagelijkse-tools/</guid>
+      <guid>//localhost:1313/ervaring/kunde/dagelijkse-tools/</guid>
       <description> VimIk woon in Vim Git iTerm2 Tempo Sketch  </description>
     </item>
     
     <item>
       <title>Toegepaste kennis</title>
-      <link>/ervaring/kunde/bijzondere-kennis/</link>
+      <link>//localhost:1313/ervaring/kunde/bijzondere-kennis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/kunde/bijzondere-kennis/</guid>
+      <guid>//localhost:1313/ervaring/kunde/bijzondere-kennis/</guid>
       <description> Blender 3D Adobe InDesign Structure Sensor Lotus Notes Arduino Rasberry Pi  </description>
     </item>
     
     <item>
       <title>Wat is Markdown?</title>
-      <link>/blog/2019.05.21-wat-is-markdown/</link>
+      <link>//localhost:1313/blog/2019.05.21-wat-is-markdown/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019.05.21-wat-is-markdown/</guid>
+      <guid>//localhost:1313/blog/2019.05.21-wat-is-markdown/</guid>
       <description>Markdown is stilletjes de schrijfwereld aan het veroveren. Softwareontwikkelaars waren de eersten die deze opmaaktaal omarmden, en nu volgt langzaam de rest van de wereld.
 Waarom? Omdat schrijven in Markdown eenvoudig te leren is, en ontzettend handig als je er eenmaal aan gewend bent.</description>
     </item>
     
     <item>
       <title>Overstapbrood</title>
-      <link>/blog/2019.05.20-overstapbrood/</link>
+      <link>//localhost:1313/blog/2019.05.20-overstapbrood/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019.05.20-overstapbrood/</guid>
+      <guid>//localhost:1313/blog/2019.05.20-overstapbrood/</guid>
       <description>Eind 2018 zag ik een aflevering van Keuringsdienst van Waarde die me heeft geschokt. Het liet zien hoe liefdeloos bijna al het brood in Nederland wordt gemaakt. Ons brood komt tot stand in een fabrieksproces waarin logistiek en grondstofprijzen ongezond veel belangrijker zijn dan smaak.</description>
     </item>
     
     <item>
       <title>Liszt</title>
-      <link>/ervaring/software/liszt/</link>
+      <link>//localhost:1313/ervaring/software/liszt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/software/liszt/</guid>
+      <guid>//localhost:1313/ervaring/software/liszt/</guid>
       <description>Als je een afbeelding op het programmaicoontje van Liszt sleept, wordt deze automatisch naar de cloud gekopieerd en krijg je een Markdown-afbeeldingscode terug.</description>
     </item>
     
     <item>
       <title>YAPDFKit</title>
-      <link>/ervaring/opensource/yapdfkit/</link>
+      <link>//localhost:1313/ervaring/opensource/yapdfkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/opensource/yapdfkit/</guid>
+      <guid>//localhost:1313/ervaring/opensource/yapdfkit/</guid>
       <description>Yet another PDF Kit. Onafhankelijke Objective-C-bibliotheek voor het uitlezen en manipuleren van pdf-documenten. Bruikbaar lesmateriaal om te begrijpen hoe een pdf-bestand werkt. YAPDFKit is de motor van PDF Letterhead.</description>
     </item>
     
     <item>
       <title>Zabbix Agent Installer voor Mac OS X</title>
-      <link>/ervaring/opensource/zabbix_osx_installer/</link>
+      <link>//localhost:1313/ervaring/opensource/zabbix_osx_installer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ervaring/opensource/zabbix_osx_installer/</guid>
+      <guid>//localhost:1313/ervaring/opensource/zabbix_osx_installer/</guid>
       <description>Programma om de Zabbix Agent op een macOS-server te installeren.</description>
     </item>
     
     <item>
       <title>✍️</title>
-      <link>/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>Contact met Pim Snel  Je kunt me via twitter of via LinkedIn een bericht sturen.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>brood on Pim Snel</title>
-    <link>/categories/brood/</link>
+    <link>//localhost:1313/categories/brood/</link>
     <description>Recent content in brood on Pim Snel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/brood/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/categories/brood/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Overstapbrood</title>
-      <link>/blog/2019.05.20-overstapbrood/</link>
+      <link>//localhost:1313/blog/2019.05.20-overstapbrood/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019.05.20-overstapbrood/</guid>
+      <guid>//localhost:1313/blog/2019.05.20-overstapbrood/</guid>
       <description>Eind 2018 zag ik een aflevering van Keuringsdienst van Waarde die me heeft geschokt. Het liet zien hoe liefdeloos bijna al het brood in Nederland wordt gemaakt. Ons brood komt tot stand in een fabrieksproces waarin logistiek en grondstofprijzen ongezond veel belangrijker zijn dan smaak.</description>
     </item>
     
