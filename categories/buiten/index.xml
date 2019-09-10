@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>buiten on Pim Snel</title>
+    <link>/categories/buiten/</link>
+    <description>Recent content in buiten on Pim Snel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/buiten/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Septemberochtenden</title>
+      <link>/blog/2019.09.10-dauw/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019.09.10-dauw/</guid>
+      <description>In september is de dauw weer terug. De mooie spinnenwebben heb ik nog niet gezien, wel deze mooie beelden.
+  Kil Hurwenen   De roos op Janneke  </description>
+    </item>
+    
+  </channel>
+</rss>
