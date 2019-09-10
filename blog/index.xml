@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Pim Snel</title>
-    <link>//localhost:1313/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blogs on Pim Snel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Septemberochtenden</title>
-      <link>//localhost:1313/blog/2019.09.10-dauw/</link>
+      <link>/blog/2019.09.10-dauw/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/blog/2019.09.10-dauw/</guid>
+      <guid>/blog/2019.09.10-dauw/</guid>
       <description>In september is de dauw weer terug. De mooie spinnenwebben heb ik nog niet gezien, wel deze mooie beelden.
   Kil Hurwenen   De roos op Janneke  </description>
     </item>
     
     <item>
       <title>Wat is Markdown?</title>
-      <link>//localhost:1313/blog/2019.05.21-wat-is-markdown/</link>
+      <link>/blog/2019.05.21-wat-is-markdown/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/blog/2019.05.21-wat-is-markdown/</guid>
+      <guid>/blog/2019.05.21-wat-is-markdown/</guid>
       <description>Markdown is stilletjes de schrijfwereld aan het veroveren. Softwareontwikkelaars waren de eersten die deze opmaaktaal omarmden, en nu volgt langzaam de rest van de wereld.
 Waarom? Omdat schrijven in Markdown eenvoudig te leren is, en ontzettend handig als je er eenmaal aan gewend bent.</description>
     </item>
     
     <item>
       <title>Overstapbrood</title>
-      <link>//localhost:1313/blog/2019.05.20-overstapbrood/</link>
+      <link>/blog/2019.05.20-overstapbrood/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/blog/2019.05.20-overstapbrood/</guid>
+      <guid>/blog/2019.05.20-overstapbrood/</guid>
       <description>Eind 2018 zag ik een aflevering van Keuringsdienst van Waarde die me heeft geschokt. Het liet zien hoe liefdeloos bijna al het brood in Nederland wordt gemaakt. Ons brood komt tot stand in een fabrieksproces waarin logistiek en grondstofprijzen ongezond veel belangrijker zijn dan smaak.</description>
     </item>
     
